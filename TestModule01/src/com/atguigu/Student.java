@@ -9,4 +9,6 @@ package com.atguigu;
  * @date 2022/2/10 4:24 下午
  */
 public class Student {
+    private String name;
+    private int age;
 }
